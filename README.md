@@ -5,3 +5,5 @@ ANKÜ Ortaokulu'nun 2025 seçimlerini kazanan ANKÜ Öğrenci Partisi, okul tari
 Meclise bağlı birimlerden birinin 7/D temsilcisi Can Koyuncu, büyük bir girişimle Meclis'in bir web sitesini hazırladı.
 
 https://tinyurl.com/ankugvo/
+
+> Şu anda geliştirilmekte: Anasayfa butonunu silip ANKÜ ikonunu anasayfa anchor'ı yapma
