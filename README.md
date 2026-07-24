@@ -7,4 +7,7 @@ Meclis'e bağlı birimlerden Sosyal Sorumluluk Komisyonu'nun 7/D temsilcisi Can 
 https://tinyurl.com/ankugvo/
 
 Eklenecekler:
-.
+
+.nddj
+
+.kfmfm
