@@ -8,6 +8,6 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-.nddj
+. nddj
 
-.kfmfm
+. kfmfm
