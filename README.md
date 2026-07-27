@@ -8,6 +8,10 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-. nddj
+- Güncellenmiş EGO Otobüsleri Komisyonu sayfası, haberleri, tarihçesi ve foto galerisi
 
-. kfmfm
+- Ankaralı Anti-Gökdelenciler Bloğu
+
+-Çaycı Hüseyin (şaka yapmıyorum)
+
+- Güncellenmiş arayüz
