@@ -12,6 +12,6 @@ Eklenecekler:
 
 - Ankaralı Anti-Gökdelenciler Bloğu
 
--Çaycı Hüseyin (şaka yapmıyorum)
+- Çaycı Hüseyin (şaka yapmıyorum)
 
 - Güncellenmiş arayüz
