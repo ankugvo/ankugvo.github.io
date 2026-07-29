@@ -5,3 +5,13 @@ ANKÜ Ortaokulu'nun 2025 seçimlerini kazanan ANKÜ Öğrenci Partisi, okul tari
 Meclis'e bağlı birimlerden Sosyal Sorumluluk Komisyonu'nun 7/D temsilcisi Can Koyuncu, büyük bir girişimle Meclis'in bir web sitesini hazırladı.
 
 https://tinyurl.com/ankugvo/
+
+Eklenecekler:
+
+- Güncellenmiş EGO Otobüsleri Komisyonu sayfası, haberleri, tarihçesi ve foto galerisi
+
+- Ankaralı Anti-Gökdelenciler Bloğu
+
+- Çaycı Hüseyin (şaka yapmıyorum)
+
+- Güncellenmiş arayüz
