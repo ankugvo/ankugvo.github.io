@@ -8,10 +8,12 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-- Güncellenmiş EGO Otobüsleri Komisyonu sayfası, haberleri, tarihçesi ve foto galerisi
+- EGO Otobüsleri Komisyonu foto galerisi
 
 - Ankaralı Anti-Gökdelenciler Bloğu
 
 - Çaycı Hüseyin (şaka yapmıyorum)
 
 - Güncellenmiş arayüz
+
+- ANKÜ Dayanışma Partisi Sayfası
