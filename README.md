@@ -12,8 +12,8 @@ Eklenecekler:
 
 - Ankaralı Anti-Gökdelenciler Bloğu
 
-- Çaycı Hüseyin (şaka yapmıyorum)
-
 - Güncellenmiş arayüz
 
 - ANKÜ Dayanışma Partisi Sayfası
+
+- ANKÜ Sosyal Partisi Sayfası
