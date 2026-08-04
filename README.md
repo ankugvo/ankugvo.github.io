@@ -10,10 +10,8 @@ Eklenecekler:
 
 - EGO Otobüsleri Komisyonu foto galerisi
 
-- Ankaralı Anti-Gökdelenciler Bloğu
+- Sansürlenmemiş araba plakalarını sansürleme
 
-- Güncellenmiş arayüz
+- ANKÜ Dayanışma Partisi sayfası
 
-- ANKÜ Dayanışma Partisi Sayfası
-
-- ANKÜ Sosyal Partisi Sayfası
+- ANKÜ Sosyal Partisi sayfası
