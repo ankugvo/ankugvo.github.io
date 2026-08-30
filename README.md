@@ -9,3 +9,7 @@ https://tinyurl.com/ankugvo/
 Eklenecekler:
 
 - Sansürlenmemiş araba plakalarını sansürleme
+
+- Belli bir bakanlığın sayfasında bulunan yazılara uyarı koyma
+
+- Forumları daha havalı yapma
