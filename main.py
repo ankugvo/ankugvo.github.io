@@ -1,1 +1,2 @@
-print("č".upper())
+for i in range(1, 101):
+    print(f"<iframe frameborder='0'  width='240' height='210'  title='Çevre Şehir ve İnsan - Sayı {i}' src='https://webdosya.csb.gov.tr/db/cis/csi/csisayi{i}/' type='text/html' allowfullscreen='true' scrolling='no' marginwidth='0' marginheight='0'></iframe>")
