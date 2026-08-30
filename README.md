@@ -8,10 +8,4 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-- EGO Otobüsleri Komisyonu foto galerisi
-
 - Sansürlenmemiş araba plakalarını sansürleme
-
-- ANKÜ Dayanışma Partisi sayfası
-
-- ANKÜ Sosyal Partisi sayfası
