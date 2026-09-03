@@ -9,5 +9,3 @@ https://tinyurl.com/ankugvo/
 Eklenecekler:
 
 - Sansürlenmemiş araba plakalarını sansürleme
-
-- Forumları daha havalı yapma
