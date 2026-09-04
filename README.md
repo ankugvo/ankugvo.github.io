@@ -9,3 +9,5 @@ https://tinyurl.com/ankugvo/
 Eklenecekler:
 
 - Sansürlenmemiş araba plakalarını sansürleme
+
+- Daha skeomorfist ikonlar
