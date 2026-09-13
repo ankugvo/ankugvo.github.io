@@ -8,6 +8,6 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-- Sansürlenmemiş araba plakalarını sansürleme
+- ANKÜ Öğrenci Meclisi II. Dönem siyasî bilgiler
 
-- Daha skeomorfist ikonlar
+- Seçim dönemi bilgileri içerecek olan Resmî Gazete'nin 6. sayısı
