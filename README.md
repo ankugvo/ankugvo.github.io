@@ -8,6 +8,4 @@ https://tinyurl.com/ankugvo/
 
 Eklenecekler:
 
-- ANKÜ Öğrenci Meclisi II. Dönem siyasî bilgiler
-
-- Seçim dönemi bilgileri içerecek olan Resmî Gazete'nin 6. sayısı
+- ANKÜ Öğrenci Meclisi II. Dönem siyasî bilgileri (tonla)
